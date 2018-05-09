@@ -1,0 +1,16 @@
+{
+  "name": "deviceflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "adal-node": "^0.1.28",
+    "@microsoft/microsoft-graph-client": "1.0.0",
+    "@microsoft/microsoft-graph-types": "1.2.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
